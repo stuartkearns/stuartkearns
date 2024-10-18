@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stuartkearns
 - 👀 I’m interested in open source software, linux, python, QGIS, urban planning ...
-- 🌱 I’m currently learning NixOS
+- 🌱 I’m currently learning NixOS and emacs
 - 💞️ I’m looking to collaborate on open-source projects related to urban planning 
 - 📫 How to reach me 
 
